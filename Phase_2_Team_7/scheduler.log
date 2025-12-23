@@ -1,0 +1,8 @@
+#At time x process y state arr w total z remain y wait k
+At time 4 process 1 Started arr 4 total 18 remain 18 wait 0
+At time 14 process 1 Resumed arr 4 total 18 remain 18 wait 0
+At time 24 process 2 Started arr 7 total 11 remain 11 wait 17
+At time 34 process 1 Resumed arr 4 total 18 remain 18 wait 0
+At time 38 process 1 Stopped arr 4 total 18 remain 14 wait 0
+At time 38 process 3 Started arr 15 total 20 remain 20 wait 23
+At time 48 process 4 Started arr 24 total 9 remain 9 wait 24

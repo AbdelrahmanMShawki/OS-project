@@ -1,0 +1,19 @@
+At time 4 page 0 for process 1 is loaded into memory page 0.
+PageFault upon VA 11000110 from process 1
+Free Physical page 1 allocated
+At time 14 page 12 for process 1 is loaded into memory page 1.
+At time 14 page 0 for process 2 is loaded into memory page 2.
+PageFault upon VA 1100100 from process 1
+Free Physical page 3 allocated
+At time 24 page 6 for process 1 is loaded into memory page 3.
+At time 24 page 0 for process 3 is loaded into memory page 4.
+At time 24 page 0 for process 4 is loaded into memory page 5.
+PageFault upon VA 11100 from process 2
+Free Physical page 6 allocated
+At time 34 page 1 for process 2 is loaded into memory page 6.
+At time 34 page 0 for process 5 is loaded into memory page 7.
+PageFault upon VA 11100011 from process 3
+Free Physical page 8 allocated
+At time 48 page 14 for process 3 is loaded into memory page 8.
+PageFault upon VA 1100010 from process 4
+Free Physical page 9 allocated
